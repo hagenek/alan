@@ -1,1 +1,3 @@
 package repl
+
+const PROMPT = ""

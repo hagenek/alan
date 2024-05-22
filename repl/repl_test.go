@@ -1,6 +1,6 @@
 package repl
 
-import "testing"
+import testing "testing"
 
 func ReplTest(t *testing.T) {
 	if 1 != 1 {
